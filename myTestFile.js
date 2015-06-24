@@ -1,3 +1,7 @@
+function test(value) {
+  console.log(vale);
+  console.log("This is the test of my gitHub password caching")
+}
 // console.log(sum(range(1, 10)));
 
 // range function that takes start and end
